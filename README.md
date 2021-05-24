@@ -1,5 +1,4 @@
-
-# face-recognition-web-app
+# face-recognition-web-app (BACKEND)
 It is a full-stack working web application using Clarifai Web API for face detection in an image,using a website with frontend designed completely using React.js, server using Node.js and Express.js and PostgreSQL for database. Frontend of the application has been deployed to Vercel, backend to Heroku and for database I've used elephantSQL which is a hosted service for PostgreSQL.
 
 [Do check out the application here](http://face-recognition.jainkunal.me/)
